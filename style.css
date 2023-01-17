@@ -51,7 +51,7 @@ a:hover {
     height: 200px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("./Assets/background\ photo.jpg");
+    background-image: url("./assets/backgroundphoto.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -134,7 +134,6 @@ img :hover{
     background-color: #ffffff;
     color: #221d4e;
 }
-
 
 
 
